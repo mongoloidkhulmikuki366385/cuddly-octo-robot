@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.9.6",
     "dotenv": "^16.0.3",
     "redstone-evm-connector": "^2.1.26",
     "truffle-hdwallet-provider": "^1.0.17",
