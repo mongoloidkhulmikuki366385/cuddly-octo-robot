@@ -46,7 +46,7 @@
     "redstone-evm-connector": "^2.1.26",
     "source-map-support": "^0.5.21",
     "typescript": "^4.8.4",
-    "web3": "^1.8.0",
+    "web3": "^4.13.0",
     "web3-core": "^1.8.0",
     "web3-eth-contract": "^1.8.0"
   }
