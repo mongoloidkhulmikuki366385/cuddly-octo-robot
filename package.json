@@ -22,7 +22,7 @@
     "inquirer": "^8.2.4",
     "node-emoji": "^1.11.0",
     "ora": "5.4.1",
-    "shelljs": "^0.8.5",
+    "shelljs": "^0.9.0",
     "yargs": "17.5.1"
   },
   "main": "bin/index.js",
